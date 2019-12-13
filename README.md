@@ -1,4 +1,4 @@
-# AM_I_RIGHT
+# Read-Analyse
 
 The Project has been started in two separate modules.
 

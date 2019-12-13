@@ -6,6 +6,8 @@ The Project has been started in two separate modules.
 	
 			< on Process >
 
-	Challenge #2 : Create an auto evaluation process for the texts that has been written
+	Challenge #2 : Create an auto evaluation process for the texts that has been written.
+	
+			Reference Research Paper : https://cs224d.stanford.edu/reports/huyenn.pdf
 	
 			< Essay_Grading_System.ipynb >

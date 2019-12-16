@@ -11,3 +11,6 @@ The Project has been started in two separate modules.
 			Reference Research Paper : https://cs224d.stanford.edu/reports/huyenn.pdf
 	
 			< Essay_Grading_System.ipynb >
+			
+			Modular Code :
+			< Module_2_Essay_Grading.ipynb >

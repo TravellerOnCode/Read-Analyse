@@ -12,5 +12,5 @@ The Project has been started in two separate modules.
 	
 			< Essay_Grading_System.ipynb >
 			
-			Modular Code :
+			Final Modular Code :
 			< Module_2_Essay_Grading.ipynb >
